@@ -1,0 +1,51 @@
+id,source,text,sentiment
+1,imdb,A movie that stays with you long after it's over.,positive
+2,twitter,Plot was weak and the acting was worse.,negative
+3,twitter,Masterpiece. Simply brilliant.,positive
+4,imdb,One of the worst films ever made.,negative
+5,twitter,Masterpiece. Simply brilliant.,positive
+6,twitter,One of the worst films ever made.,negative
+7,imdb,Perfect blend of story and emotion.,positive
+8,imdb,I regret watching this. Boring and slow.,negative
+9,imdb,This film touched my heart. Highly recommended!,positive
+10,imdb,Terrible movie. Complete waste of time.,negative
+11,twitter,"Amazing story, great acting, and beautiful visuals.",positive
+12,twitter,Painfully predictable.,negative
+13,imdb,"Amazing story, great acting, and beautiful visuals.",positive
+14,imdb,I regret watching this. Boring and slow.,negative
+15,imdb,Perfect blend of story and emotion.,positive
+16,imdb,Plot was weak and the acting was worse.,negative
+17,imdb,Absolutely loved it! A cinematic gem.,positive
+18,twitter,Couldn’t finish it. That bad.,negative
+19,twitter,Perfect blend of story and emotion.,positive
+20,imdb,I regret watching this. Boring and slow.,negative
+21,twitter,Incredible experience. Totally worth watching.,positive
+22,twitter,Couldn’t finish it. That bad.,negative
+23,twitter,Loved every moment of it!,positive
+24,imdb,Just awful. No redeeming qualities.,negative
+25,imdb,Incredible experience. Totally worth watching.,positive
+26,twitter,Disappointing from start to finish.,negative
+27,twitter,One of the best movies I've seen this year.,positive
+28,imdb,Painfully predictable.,negative
+29,twitter,One of the best movies I've seen this year.,positive
+30,imdb,Painfully predictable.,negative
+31,twitter,A movie that stays with you long after it's over.,positive
+32,imdb,Just awful. No redeeming qualities.,negative
+33,imdb,Masterpiece. Simply brilliant.,positive
+34,imdb,I regret watching this. Boring and slow.,negative
+35,imdb,Masterpiece. Simply brilliant.,positive
+36,imdb,So bad it was almost funny.,negative
+37,imdb,Incredible experience. Totally worth watching.,positive
+38,twitter,Not worth the hype at all.,negative
+39,imdb,Outstanding performance and direction.,positive
+40,twitter,Painfully predictable.,negative
+41,imdb,This film touched my heart. Highly recommended!,positive
+42,twitter,Plot was weak and the acting was worse.,negative
+43,twitter,A movie that stays with you long after it's over.,positive
+44,imdb,I regret watching this. Boring and slow.,negative
+45,twitter,Absolutely loved it! A cinematic gem.,positive
+46,twitter,Painfully predictable.,negative
+47,imdb,One of the best movies I've seen this year.,positive
+48,imdb,One of the worst films ever made.,negative
+49,imdb,Perfect blend of story and emotion.,positive
+50,imdb,Just awful. No redeeming qualities.,negative
